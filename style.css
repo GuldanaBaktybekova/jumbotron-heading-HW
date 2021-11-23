@@ -78,13 +78,17 @@ body {
    list-style-type: none;
  
 }
-
-.navbar .active {
-  background-color: blue;
-  color: white;
+.navbar ul li {
+  
+  padding: 15px;
 }
-
-a {
+.navbar ul li a {
+  padding: 10px;
   text-decoration: none;
   color: blue;
+}
+.navbar .active {
+  background-color: rgb(9, 97, 197);
+  color: white;
+  border-radius: 3px;
 }
