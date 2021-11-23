@@ -92,3 +92,21 @@ body {
   color: white;
   border-radius: 3px;
 }
+.navbar span {
+  font-size: 20px;
+  color: grey;
+  margin-top: 20px;
+}
+header div {
+  background-color: #d4ceb8;
+  padding: 40px 0;
+  text-align: center;
+}
+div h1 {
+  font-size: 50px;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+div button {
+  background-color: chartreuse;
+}
