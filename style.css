@@ -1,6 +1,8 @@
 body {
   margin: 0;
   padding: 30px;
+  font-family: sans-serif;
+  
 }
 * {
   box-sizing: border-box;
@@ -106,10 +108,15 @@ header div {
   text-align: center;
 }
 div h1 {
-  font-size: 50px;
+  font-size:60px;
   font-weight: 600;
-  font-family: sans-serif;
+ 
 }
+div p{
+  font-size: 20px;
+ 
+}
+
 div button {
   background-color: rgb(22, 197, 22);
   border: none;
