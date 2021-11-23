@@ -122,3 +122,10 @@ div button a {
   color: white;
 
 }
+footer {
+  border-top: 1px solid lightgray;;
+}
+footer div {
+  padding: 10px;
+  color: grey;
+}
