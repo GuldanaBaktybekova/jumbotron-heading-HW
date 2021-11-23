@@ -2,7 +2,6 @@ body {
   margin: 0;
   padding: 30px;
   font-family: sans-serif;
-  
 }
 * {
   box-sizing: border-box;
@@ -22,7 +21,7 @@ body {
 }
 .column {
   flex: 1 0 0;
-}                                                       
+}
 .column-auto {
   flex: 0 0 auto;
 }
@@ -64,24 +63,21 @@ body {
 }
 .navbar {
   border-bottom: 1px solid lightgray;
-  
 }
 
 .navbar div {
   display: flex;
- 
+
   margin: 0;
   padding: 0;
   justify-content: space-between;
 }
 .navbar ul {
-   display: flex;
-   justify-content: space-between;
-   list-style-type: none;
- 
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
 }
 .navbar ul li {
-  
   padding: 15px;
 }
 .navbar ul li a {
@@ -108,13 +104,11 @@ header div {
   text-align: center;
 }
 div h1 {
-  font-size:60px;
+  font-size: 60px;
   font-weight: 600;
- 
 }
-div p{
+div p {
   font-size: 20px;
- 
 }
 
 div button {
@@ -122,15 +116,13 @@ div button {
   border: none;
   padding: 10px;
   border-radius: 3px;
-  
 }
 div button a {
   text-decoration: none;
   color: white;
-
 }
 footer {
-  border-top: 1px solid lightgray;;
+  border-top: 1px solid lightgray;
 }
 footer div {
   padding: 10px;
