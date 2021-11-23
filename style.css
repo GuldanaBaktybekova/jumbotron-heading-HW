@@ -61,7 +61,7 @@ body {
   flex: 0 0 100%;
 }
 .navbar {
-  border-bottom: 1px solid rgb(206, 200, 200);
+  border-bottom: 1px solid lightgray;
   
 }
 
@@ -95,6 +95,9 @@ body {
 .navbar span {
   font-size: 20px;
   color: grey;
+  margin-top: 30px;
+}
+header {
   margin-top: 20px;
 }
 header div {
@@ -108,5 +111,14 @@ div h1 {
   font-family: sans-serif;
 }
 div button {
-  background-color: chartreuse;
+  background-color: rgb(22, 197, 22);
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+  
+}
+div button a {
+  text-decoration: none;
+  color: white;
+
 }
